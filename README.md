@@ -21,7 +21,7 @@ Aplikasi ini menerapkan sesi fokus selama 25 menit diikuti dengan 5 menit istira
 2. `get (v4.6.6)` → State management & routing yang simpel dan efisien.
 3. `lottie (v3.2.0) → Untuk menampilkan animasi Lottie (file JSON dari After Effects).`
 4. `Database & CRUD` (Menyusul)
-5. `Firebase 🔥` (Menyusul, kak im promised im working for it)
+5. `Firebase 🔥` (Menyusul, kak i promised im working for it)
 
 🛠️ **Dev Dependencies**
 
@@ -30,17 +30,20 @@ Aplikasi ini menerapkan sesi fokus selama 25 menit diikuti dengan 5 menit istira
 
 **Screenshot 📸**
 
+`📝 Halaman Register`  
+![Register Page](assets/images/regist.jpeg)
+
+`🏠 Halaman Utama`  
+![Home Page](assets/images/home.jpeg)
+
 `🕒 Saat Timer Berjalan`  
 ![Timer Berjalan](assets/images/timer_run.jpeg)
 
-`❌ Gagal Fokus `
+`❌ Gagal Fokus `  
 ![Gagal](assets/images/failed.jpeg)
 
-`☕ `Waktu Istirahat`
+`☕ Waktu Istirahat`  
 ![Break Time](assets/images/break.png)
 
-`🎉 Sukses Fokus!`
+`🎉 Sukses Fokus!`  
 ![Congrats](assets/images/congrats.jpeg)
-
-`📝 Halaman Register`  
-![Register Page](assets/images/regist.jpeg)
