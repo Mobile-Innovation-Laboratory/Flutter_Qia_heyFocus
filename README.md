@@ -41,3 +41,6 @@ Aplikasi ini menerapkan sesi fokus selama 25 menit diikuti dengan 5 menit istira
 
 `🎉 Sukses Fokus!`
 ![Congrats](assets/images/congrats.jpeg)
+
+`📝 Halaman Register`  
+![Register Page](assets/images/regist.jpeg)
