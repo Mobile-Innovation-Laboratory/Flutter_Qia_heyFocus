@@ -31,13 +31,13 @@ Aplikasi ini menerapkan sesi fokus selama 25 menit diikuti dengan 5 menit istira
 **Screenshot 📸**
 
 `🕒 Saat Timer Berjalan`  
-![Timer Berjalan](assets/images/timer_run.png)
+![Timer Berjalan](assets/images/timer_run.jpeg)
 
 `❌ Gagal Fokus `
-![Gagal](assets/images/failed.png)
+![Gagal](assets/images/failed.jpeg)
 
 `☕ `Waktu Istirahat`
 ![Break Time](assets/images/break.png)
 
 `🎉 Sukses Fokus!`
-![Congrats](assets/images/congrats.png)
+![Congrats](assets/images/congrats.jpeg)
